@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5abd6092-496a-4b72-b233-802bee4b65cc" name="Changes" comment="Crenado el esqueleto de las clases Conjunto y TestConjunto" />
+    <list default="true" id="5abd6092-496a-4b72-b233-802bee4b65cc" name="Changes" comment="Caso 1:Calcular promedio con conjunto vacio (Verdde)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,13 +32,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in TestConjunto.py.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests in TestConjunto.py">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="KATAATDD" />
       <option name="ENV_FILES" value="" />
@@ -61,6 +62,26 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in TestConjunto.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="KATAATDD" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Tests/TestConjunto.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in TestConjunto.py" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -94,12 +115,30 @@
       <option name="project" value="LOCAL" />
       <updated>1729026821533</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Caso 1:Calcular promedio con conjunto vacio (Rojo)">
+      <option name="closed" value="true" />
+      <created>1729027106755</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027106755</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Caso 1:Calcular promedio con conjunto vacio (Verdde)">
+      <option name="closed" value="true" />
+      <created>1729027238010</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027238010</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Configuracion inicial del proyecto KataTDD" />
     <MESSAGE value="Crenado el esqueleto de las clases Conjunto y TestConjunto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Crenado el esqueleto de las clases Conjunto y TestConjunto" />
+    <MESSAGE value="Caso 1:Calcular promedio con conjunto vacio (Rojo)" />
+    <MESSAGE value="Caso 1:Calcular promedio con conjunto vacio (Verdde)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Caso 1:Calcular promedio con conjunto vacio (Verdde)" />
   </component>
 </project>
